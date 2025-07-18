@@ -876,9 +876,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1769496291}
-        m_TargetAssemblyTypeName: BaseManagement, Assembly-CSharp
-        m_MethodName: OpenPrivacy
+      - m_Target: {fileID: 1769496292}
+        m_TargetAssemblyTypeName: PrivacyPolicyLoader, Assembly-CSharp
+        m_MethodName: LoadURL
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
