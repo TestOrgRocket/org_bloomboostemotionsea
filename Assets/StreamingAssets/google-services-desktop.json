@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "260779823390",
+    "project_id": "iosbloomboostemotionsea",
+    "storage_bucket": "iosbloomboostemotionsea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260779823390:ios:c553a3d22e52dc6b6e790f",
+        "android_client_info": {
+          "package_name": "com.bloobma.emotionsea"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ0M-mkglzG6ClpktpfbpXMZzEfGC1L-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

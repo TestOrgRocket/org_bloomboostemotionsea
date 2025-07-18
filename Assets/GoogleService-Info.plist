@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ0M-mkglzG6ClpktpfbpXMZzEfGC1L-U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>260779823390</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bloobma.emotionsea</string>
+	<key>PROJECT_ID</key>
+	<string>iosbloomboostemotionsea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iosbloomboostemotionsea.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:260779823390:ios:c553a3d22e52dc6b6e790f</string>
+</dict>
+</plist>
