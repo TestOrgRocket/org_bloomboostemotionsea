@@ -396,6 +396,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 8fd162980a029435b9bd337ffdc6aacf, type: 3}
     - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: IOS_ID
+      value: 6476490322
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
       propertyPath: endpoint
       value: https://emotionsssea.com
       objectReference: {fileID: 0}
