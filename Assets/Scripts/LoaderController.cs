@@ -114,6 +114,7 @@ public class LoaderController : MonoBehaviour, IAppsFlyerConversionData
     IEnumerator reqDelay(){
         _doReq = true;
         _webView.Hide();
+        yield return new WaitForEndOfFrame(); 
         yield return RequestNotifications();
         if(didFinish){
             notificationRequestScreen.gameObject.SetActive(false);
@@ -135,6 +136,7 @@ public class LoaderController : MonoBehaviour, IAppsFlyerConversionData
     IEnumerator RequestNotifications()
     {
         bool buttonPressed = false;
+        yield return new WaitForEndOfFrame(); 
         notificationRequestScreen.gameObject.SetActive(true);
         Button acceptButton = notificationRequestScreen.Find("Accept").GetComponent<Button>();
         Button declineButton = notificationRequestScreen.Find("Decline").GetComponent<Button>();
